@@ -1,3 +1,7 @@
+# Data files
+data/processed
+data/interim
+
 # Mac OS-specific storage files
 .DS_Store
 
